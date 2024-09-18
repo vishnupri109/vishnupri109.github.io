@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Ah, coding—where sleep doesn’t matter, bugs never end, and debugging is just a treasure hunt for disappointment. Welcome to my little corner of the internet where I share my daily struggle with curly braces, semicolons, and the constant ‘what the heck is broken now?’ moments. Join me for some accidental brilliance and, let’s be real, a lot of chaos.
