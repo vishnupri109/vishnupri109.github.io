@@ -1,32 +1,4 @@
-## Blog Post Title From First Header
+# Introducing new series on React
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Welcome to the React saga, where every div dreams of greatness and state changes faster than my morning motivation. If you've ever wanted to turn simple web development into a mind-bending puzzle of hooks, components, and occasional breakdowns, you're in the right place. We’ll be deep-diving into React, where ‘easy’ is a relative term and useEffect will keep you up at night. Buckle up—by the end of this, you'll either be a React pro or staring blankly at your screen wondering why your button won’t render.
 
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
