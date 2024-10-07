@@ -1,4 +1,4 @@
-### Mathematical Explanation of Logarithmic Time Complexity
+###Mathematical Explanation of Logarithmic Time Complexity
 
 #### What is a Logarithm?
 A logarithm answers the question: "How many times do we need to divide (or multiply by the base) to reach a specific number?" More formally:
